@@ -8,7 +8,7 @@ GEM
       tilt
     markaby (0.8.0)
       builder
-    rack (1.6.11)
+    rack (1.6.13)
     rack-protection (1.5.5)
       rack
     sinatra (1.4.7)
